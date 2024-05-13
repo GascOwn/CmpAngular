@@ -1,0 +1,6 @@
+@CmpAngular.Server_HostAddress = http://localhost:5065
+
+GET {{CmpAngular.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

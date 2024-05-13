@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CmpAngular.Server", "CmpAngular.Server\CmpAngular.Server.csproj", "{503161B7-635B-4F4B-9EC8-109FD341F996}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "cmpangular.client", "cmpangular.client\cmpangular.client.esproj", "{AA482B72-4DA2-4973-86BE-7B4411876737}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{503161B7-635B-4F4B-9EC8-109FD341F996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{503161B7-635B-4F4B-9EC8-109FD341F996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{503161B7-635B-4F4B-9EC8-109FD341F996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{503161B7-635B-4F4B-9EC8-109FD341F996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA482B72-4DA2-4973-86BE-7B4411876737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA482B72-4DA2-4973-86BE-7B4411876737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA482B72-4DA2-4973-86BE-7B4411876737}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AA482B72-4DA2-4973-86BE-7B4411876737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA482B72-4DA2-4973-86BE-7B4411876737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA482B72-4DA2-4973-86BE-7B4411876737}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE7DA609-CF47-400A-98B6-A73816A2E5A8}
+	EndGlobalSection
+EndGlobal
